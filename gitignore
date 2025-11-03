@@ -1,0 +1,11 @@
+gitignore
+__pycache__/
+*.pyc
+.env
+.venv
+venv/
+allure-results/
+*.log
+.coverage
+htmlcov/
+.pytest_cache/
