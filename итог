@@ -1,9 +1,0 @@
--m venv venv
-source venv/bin/activate  # Linux/Mac
-# или
-venv\Scripts\activate  # Windows
-
-pip install -r requirements.txt
-
-# Все тесты
-pytest
